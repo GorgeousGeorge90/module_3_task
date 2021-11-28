@@ -26,6 +26,6 @@ _ _ _
 * *[git fetch](./gitFetch.md)*
 * *[git pull](./gitPull.md)*
 
-3.Примеры других ***[систем контроля версий](./anotherSystems.md)***
+3.Примеры других ***[систем контроля версий](./anothersystems.md)***
 
 _ _ _
